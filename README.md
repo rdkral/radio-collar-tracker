@@ -26,7 +26,7 @@ See the file "Project Updates - Radio Collar Tracker.pdf" for details on our pro
 
 We are currently working to effectively run the RTK GPS with two laptops (one serving as a base station, and one serving as a rover). This process began by testing on two Raspberry Pis running Linux; however, this gave us difficulties as the operating systems were not compatible with the Piksi tools needed. We then changed our approach and were able to get RTK GPS working for a short time using a PC as the base station and a Mac as the rover. We will continue to work on getting Linux to work before the deadline of 5/5/2015.
 
-## 4/27/2015
+## 5/4/2015
 See the file "Milestone Report - Radio Collar Tracker.pdf" for the latest details on our progress thus far. In the past week we have finished work on our second milestone. We were able to get RTK GPS positional data by using two laptops connected to Piksi RTK units. We struggled to maintain an RTK lock, so an additional milestone was added to ensure that our final product will show stable RTK GPS data.
 
 We were also able to load the Piksi console software on two Linux systems. This was a struggle because the console code is in beta and constantly changing. Nevertheless, we got it running and have proved to ourselves that this will be easy to migrate to the Beaglebone Black which runs Linux.
